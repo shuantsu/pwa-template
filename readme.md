@@ -10,6 +10,8 @@ Copie os arquivos da pasta `template` e modifique como precisar.
 
 Envie o seu app para um servidor https.
 
+
+
 OBS: Mudei o link para um outro editor de PWA Manifest já que o anterior mudou de endereço.
 
 Alteração em: 2025.06.29
